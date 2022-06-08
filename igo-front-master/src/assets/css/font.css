@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'OPPOSans-M';
+  src: url('../font/OPPOSans-M.woff2')
+}
+
+@font-face {
+  font-family: 'Montserrat-Regular';
+  src: url('../font/Montserrat-Regular-8.woff2');
+}
+html, body, input, textarea, button {
+  font-family: 'OPPOSans-M', 'OPPOSans', PingFangSC-Medium, PingFang SC, sans-serif, Microsoft Yahei;
+}

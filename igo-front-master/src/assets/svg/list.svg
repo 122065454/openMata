@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>更多</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="H5-萌大象" transform="translate(-16.000000, -98.000000)">
+            <g id="编组-20" transform="translate(0.000000, 88.000000)">
+                <g id="更多" transform="translate(16.000000, 10.000000)">
+                    <g id="编组-37">
+                        <rect id="矩形" x="0" y="0" width="24" height="24"></rect>
+                    </g>
+                    <g id="编组-2" transform="translate(3.000000, 3.500000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+                        <g id="编组" transform="translate(9.000000, 8.500000) scale(-1, 1) translate(-9.000000, -8.500000) translate(0.000000, 8.000000)">
+                            <line x1="0" y1="0.5" x2="18" y2="0.5" id="直线-7" transform="translate(9.000000, 0.500000) scale(-1, 1) translate(-9.000000, -0.500000) "></line>
+                        </g>
+                        <line x1="-1.45657766e-16" y1="0.5" x2="18" y2="0.5" id="直线-7"></line>
+                        <line x1="-1.39027043e-16" y1="16.5" x2="18" y2="16.5" id="直线-7备份"></line>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

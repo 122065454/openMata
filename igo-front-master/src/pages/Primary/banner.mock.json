@@ -1,0 +1,52 @@
+{
+  "result": [
+    {
+      "imagePath": "https://galaxyheroesx.com/img/bbj.64b357fe.jpg",
+      "linkUrl": "https://www.hk01.com",
+      "type": "pc",
+      "linkType": 1,
+      "primary": {
+        "title": {
+          "ch": "chinese",
+          "en": "english"
+        },
+        "description": {
+          "ch": "chinese",
+          "en": "english"
+        },
+        "totalSale": 100,
+        "salePrice": 100,
+        "startTime": 1637925092000,
+        "endTime": 1647925092000,
+        "actualEndTime": 0,
+        "contractAddress": "0x8dc5Cc887c1183c643fBD6c2970AE54A6cA4404b",
+        "tokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "tokenName": "BUSD"
+      }
+    },
+    {
+      "imagePath": "https://galaxyheroesx.com/img/bbj.64b357fe.jpg",
+      "linkUrl": "https://www.baidu.com",
+      "type": "pc",
+      "linkType": 1,
+      "primary": {
+        "title": {
+          "ch": "MLBB:The Aspirants Mystery Box",
+          "en": "MLBB:The Aspirants Mystery Box"
+        },
+        "description": {
+          "ch": "Each Mystery box for this pre-saleEach Mystery box for this pre-saleEach Mystery box for this pre-sale contains an NFT Mollu.The attributes and occupation of each NFT Mollu are random, and NFT Mollu can participate in the battle and obtain benefits after the game is officially launched.",
+          "en": "Each Mystery box for this pre-saleEach Mystery box for this pre-saleEach Mystery box for this pre-sale contains an NFT Mollu.The attributes and occupation of each NFT Mollu are random, and NFT Mollu can participate in the battle and obtain benefits after the game is officially launched."
+        },
+        "totalSale": 100,
+        "salePrice": 100,
+        "startTime": 1642653394090,
+        "endTime": 1647825092000,
+        "actualEndTime": 1642954464090,
+        "contractAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "tokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+        "tokenName": "BUSD"
+      }
+    }
+  ]
+}

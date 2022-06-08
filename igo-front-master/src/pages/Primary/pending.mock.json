@@ -1,0 +1,61 @@
+{
+  "total": 100,
+  "page": 1,
+  "pageSize": 1,
+  "result": [
+    {
+      "chain_id": 128,
+      "primaryCode": "_p3GvhJVk",
+      "cardImage": "https://galaxyheroesx.com/img/bbj.64b357fe.jpg",
+      "title": {
+        "ch": "The Sandbox ASSETS",
+        "en": "The Sandbox ASSETS"
+      },
+      "description": {
+        "ch": "The Sandbox is a community-driven platform where creators can monetize voxel assets and gaming exper...",
+        "en": "The Sandbox is a community-driven platform where creators can monetize voxel assets and gaming exper..."
+      },
+      "contractAddress": "0x8dc5Cc887c1183c643fBD6c2970AE54A6cA4404b",
+      "startTime": 1637925092000,
+      "endTime": 1642673997154,
+      "actualEndTime": 1637925092000,
+      "salePrice": 100,
+      "tokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "tokenPrice": "100",
+      "tokenName": "BUSD",
+      "whiteListDescription": {
+        "ch": "我是测试董事会的等待池子",
+        "en": "我是测试董事会的等待池子"
+      },
+      "whiteListChLinkUrl": "",
+      "whiteListEnLinkUrl": ""
+    },
+    {
+      "chain_id": 128,
+      "primaryCode": "_p3GvhJVk",
+      "cardImage": "https://galaxyheroesx.com/img/bbj.64b357fe.jpg",
+      "title": {
+        "ch": "chinese",
+        "en": "english"
+      },
+      "description": {
+        "ch": "chinese",
+        "en": "english"
+      },
+      "contractAddress": "0x8dc5Cc887c1183c643fBD6c2970AE54A6cA4404b",
+      "startTime": 1637925092000,
+      "endTime": 1637925092000,
+      "actualEndTime": 1637925092000,
+      "salePrice": 100,
+      "tokenAddress": "0xe9e7cea3dedca5984780bafc599bd69add087d56",
+      "tokenPrice": "100",
+      "tokenName": "BUSD",
+      "whiteListDescription": {
+        "ch": "我是测试董事会的等待池子",
+        "en": "我是测试董事会的等待池子"
+      },
+      "whiteListChLinkUrl": "",
+      "whiteListEnLinkUrl": ""
+    }
+  ]
+}
